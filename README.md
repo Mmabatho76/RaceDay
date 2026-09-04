@@ -59,7 +59,7 @@ The Event table stores information about individual race events.
 
 **Foreign Keys:**
 
-* EventTypeID` → EventType(EventTypeID)
+* EventTypeID → EventType(EventTypeID)
 * UserID → AppUser(UserID)
 
 Main attributes include:
@@ -247,6 +247,7 @@ RaceDay/
 │
 └── README.md
 
+Youtube: https://youtu.be/shMkz-KFS4w
 
 ## Part 1 Deliverables
 
@@ -261,6 +262,7 @@ The repository contains the following Part 1 deliverables:
 * Sample database data
 * API endpoint plan
 * GitHub repository documentation
+* Video link
 
 ## Author
 
